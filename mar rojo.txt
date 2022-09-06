@@ -1,0 +1,10 @@
+﻿Corvallo#0.025#5.50#12.00#
+Mulloidichthys-vanicolensis#0.05#4.10#12.50#
+Bodianus-diana#0.10#6.50#11.80#
+Pez-de-San-Pedro#0.15#3.25#4.40#
+Canthigaster-coronata#0.20#02.50#4.30#
+Doncella-reina#0.25#15.00#19.20#
+Halichoeres-hortulanus#0.40#13.25#17.45#
+Pez-ángel-emperador#0.60#0.80#1.4#
+Pez-Napoleón#0.80#110.00#200.00#
+Lábrido-mental#1.1#12.50#20.40#
